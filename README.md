@@ -8,4 +8,4 @@ The script start up an aws instance
 
 Congiures the instance 
 
-And then server a webpage
+And then serves a webpage
